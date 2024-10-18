@@ -67,7 +67,7 @@ Aqui estão algumas capturas de tela do projeto:
 
 1. Clone o repositório:
    ```sh
-   git clone https://github.com/Luis-Cesar0/Projeto_DigitalStore_DG.git
+   git clone https://github.com/Douglasffjw/Projeto_DigitalStore_DG.git
    ```
 2. Navegue até o diretório do projeto:
    ```sh
